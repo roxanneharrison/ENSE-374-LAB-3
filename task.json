@@ -1,0 +1,7 @@
+[
+    {"_id":1,"name":"task1","owner":"undefined","creator":"user1","done":false,"cleared":false},
+    {"_id":2,"name":"task2","owner":"user1","creator":"user1","done":false,"cleared":false},
+    {"_id":3,"name":"task3","owner":"user1","creator":"user1","done":true,"cleared":false},
+    {"_id":4,"name":"task4","owner":"user2","creator":"user1","done":false,"cleared":false},
+    {"_id":5,"name":"task5","owner":"user2","creator":"user1","done":true,"cleared":false}
+]
